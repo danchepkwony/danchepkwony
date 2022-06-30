@@ -1,4 +1,4 @@
-## Hi, I'm Dan 😎
+## Hi, I'm Dan
 
   🤓 Student at Ball State. <br/> <br/>
   ✨ Interested in frontend development. <br/> <br/>
