@@ -1,5 +1,5 @@
 ## Hi, I'm Dan
 
-  🤓 Student at Ball State <br/> <br/>
-  ✨ Interested in Frontend Development and Data Analytics <br/> <br/>
+  🤓 Gradute from Ball State University <br/> <br/>
+  ✨ Specialize in Frontend Development and Data Analytics <br/> <br/>
   😊 Check out my [portfolio](https://danchepkwony.com)
